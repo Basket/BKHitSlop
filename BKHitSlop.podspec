@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "BKHitSlop"
-  s.version          = "0.0.1"
+  s.version          = "1.0.0"
   s.summary          = "A simple swizzle to allow UIViews to respond to touches outside their visible bounds."
   s.description      = <<-DESC
                        This is mostly useful for UIButtons for which a specific size/positioning is desired, but which should also be responsive to touches outside of its drawn area.
